@@ -8,6 +8,8 @@ import ca.wowapi.exceptions.NotModifiedException;
 import ca.wowapi.exceptions.TooManyRequestsException;
 import ca.wowapi.utils.APIConnection;
 
+// test comment from farhad
+
 public class AbstractAPI {
 
 	public static final String REGION_US = "us";
